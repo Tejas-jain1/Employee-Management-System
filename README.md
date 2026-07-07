@@ -47,6 +47,22 @@ A modern and responsive **Employee Management System** built using **React.js**,
 - Local Storage
 - Vite
 
+## 🔑 Demo Credentials
+
+### Admin
+- Email: admin@example.com
+- Password: 1234
+
+### Employee
+- Email: employee1@example.com
+- Password: 1234
+
+You can also use:
+- employee2@example.com / 1234
+- employee3@example.com / 1234
+- employee4@example.com / 1234
+- employee5@example.com / 1234
+
 ---
 
 ## 📂 Installation
